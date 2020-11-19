@@ -1,6 +1,6 @@
 # ResturantsApp
 
-A new Flutter project.
+## I made a simple resutarnt app in which user can add it's own favourite food and also able to apply filter to the food aviable in the app.
 
 ## Getting Started
 
