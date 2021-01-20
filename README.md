@@ -1,6 +1,6 @@
 # ResturantsApp
 
-# I made a simple resturant app in which user can add it's own favourite food and also able to apply filter to the food available in the app
+## I made a simple resturant app in which user can add it's own favourite food and also able to apply filter to the food available in the app
 
 ##  Here , I addded some Screenshot of the app :
 
@@ -24,13 +24,13 @@
 
 
 
-
-![WhatsApp Image 2020-11-19 at 20 28 02 (4)](https://user-images.githubusercontent.com/64456168/99683653-9654a700-2aa6-11eb-9ad3-68b4b8546b48.jpeg)
-
+<img src="https://user-images.githubusercontent.com/64456168/99683653-9654a700-2aa6-11eb-9ad3-68b4b8546b48.jpeg" width="550" height="1000">
 
 
 
-![WhatsApp Image 2020-11-19 at 20 28 20](https://user-images.githubusercontent.com/64456168/99683696-a40a2c80-2aa6-11eb-87dc-d60e2568dffc.jpeg)
+
+<img src="https://user-images.githubusercontent.com/64456168/99683696-a40a2c80-2aa6-11eb-87dc-d60e2568dffc.jpeg" width="550" height="1000">
+
 
 
 
