@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
     "gluten_free": false,
     "lutcose_free": false,
     "isVegetarian": false,
-    "vegas": false,
+    "vegan": false,
   };
 
   void filter_fun(Map<String, bool> filterData) {
