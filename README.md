@@ -1,5 +1,6 @@
 
 # Categories Screen
+App which list delicious dishes according to your interest and provides recipe for them so you can enjoy cooking and eating.
 
 <table>
   <tr>
